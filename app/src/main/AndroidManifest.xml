@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projet_zili">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projet_zili">
+        <activity
+            android:name=".Bulletin"
+            android:exported="false" />
+        <activity
+            android:name=".evaluationAdapte"
+            android:exported="false" />
+        <activity
+            android:name=".Saisienotes"
+            android:exported="false" />
+        <activity
+            android:name=".Recuperetudiant"
+            android:exported="false" />
+        <activity
+            android:name=".planninglsi1"
+            android:exported="false" />
+        <activity
+            android:name=".planningsim2"
+            android:exported="false" />
+        <activity
+            android:name=".planningsim1"
+            android:exported="false" />
+        <activity
+            android:name=".planningmbd1"
+            android:exported="false" />
+        <activity
+            android:name=".Planning"
+            android:exported="false" />
+        <activity
+            android:name=".resultLsi"
+            android:exported="false" />
+        <activity
+            android:name=".resultSim"
+            android:exported="false" />
+        <activity
+            android:name=".resultMbd"
+            android:exported="false" />
+        <activity
+            android:name=".ExamLsi"
+            android:exported="false" />
+        <activity
+            android:name=".ExamSim"
+            android:exported="false" />
+        <activity
+            android:name=".ExamMbd"
+            android:exported="false" />
+        <activity
+            android:name=".Examin"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateActivity"
+            android:exported="false"
+            android:parentActivityName=".InscriptionActivity" />
+        <activity
+            android:name=".AddActivity"
+            android:exported="false"
+            android:label="Ajouter etudiant"
+            android:parentActivityName=".InscriptionActivity" />
+        <activity
+            android:name=".InscriptionActivity"
+            android:exported="false"
+            android:label="Inscription" />
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="stitle">Système de calcul des notes des étudiants</string>
+    <string name="snote1">Note Examen</string>
+    <string name="sprojet">Note Projet</string>
+    <string name="stp">Note TP</string>
+    <string name="stotal">Total</string>
+    <string name="smoyenne">Moyenne</string>
+    <string name="sresulat">Résultat</string>
+    <string name="ok">OK</string>
+    <string name="clear">Clear</string>
+    <string name="app_name">projet_zili</string>
+    <string name="inscription">Inscriptions</string>
+    <string name="examen">Examens</string>
+    <string name="rapport">Planning</string>
+    <string name="bulletin">Bulletin</string>
+    <string name="mbd">Mobiquité et Big Data</string>
+    <string name="sim">Systèmes Informatiques et Mobiles</string>
+    <string name="lsi">Logiciels et systèmes informatiques</string>
+    <string name="col1">1ère année</string>
+    <string name="col2">2 ème année</string>
+    <string name="col3">3 ème année</string>
+    <string name="mo">Modules</string>
+    <string name="da">Date </string>
+    <string name="lo">Locale </string>
+    <string name="d1">1 Janvier 2022 à 10h </string>
+    <string name="d2">3 Janvier 2022 à 10h</string>
+    <string name="d3">6 Janvier 2022 à 10h</string>
+    <string name="d4">9 Janvier 2022 à 10h</string>
+    <string name="d5">12 Janvier 2022 à 10h</string>
+    <string name="d6">15 Janvier 2022 à 10h</string>
+    <string name="m1">Systèmes Embarqués Et Mobilité </string>
+    <string name="m2">Programmation Orientée Objet </string>
+    <string name="m3">Cloud Computing Et Virtualization </string>
+    <string name="m4">Développement Mobile </string>
+    <string name="m5">Big Data Analytics </string>
+    <string name="m55">Cyber Sécurité </string>
+    <string name="m6">Management de projet Et Gestion de projet </string>
+    <string name="m7">Vision Artificielle </string>
+    <string name="m8">Intelligence économique Et Soft Skills </string>
+    <string name="m9">Anglais professionnel Et techniques de coaching </string>
+    <string name="d7">9 Janvier 2022 à 10h</string>
+    <string name="d8">12 Janvier 2022 à 10h</string>
+    <string name="d9">15 Janvier 2022 à 10h</string>
+    <string name="l7">Amphi 3</string>
+    <string name="l8">Amphi 6</string>
+    <string name="l9">Amphi 2</string>
+    <string name="l1">Amphi 1 </string>
+    <string name="l2">Amphi 3</string>
+    <string name="l3">Amphi 2</string>
+    <string name="l4">Amphi 5</string>
+    <string name="l5">Amphi 4</string>
+    <string name="l55">Amphi 1</string>
+    <string name="l6">Amphi 6</string>
+    <string-array name="niv2">
+        <item>Choisir...</item>
+        <item>1 ère année</item>
+        <item>2 ème année</item>
+    </string-array>
+    <string-array name="niv3">
+        <item>Choisir...</item>
+        <item>1 ère année</item>
+        <item>2 ème année</item>
+        <item>3 ème année</item>
+    </string-array>
+</resources>
